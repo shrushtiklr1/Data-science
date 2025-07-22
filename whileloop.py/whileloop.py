@@ -7,3 +7,6 @@ while i<=num :
 print("sum" , sum)
 
 
+
+
+
